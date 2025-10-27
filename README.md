@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Anastasia Plyusnina
 
 [![](https://img.shields.io/badge/-@boneyk-%23181717?style=flat-square&logo=github)](https://github.com/boneyk)
 [![](https://img.shields.io/badge/-@plusninap-%23000000?style=flat-square&logo=telegram)](https://t.me/plusninap)
