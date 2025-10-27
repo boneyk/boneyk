@@ -22,6 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-336791?style=flat-square&logo=clickhouse)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)
