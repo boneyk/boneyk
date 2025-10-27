@@ -1,7 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/boneyk)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=telegram)](https://t.me/plusninap)
+[![](https://img.shields.io/badge/-@boneyk-%23181717?style=flat-square&logo=github)](https://github.com/boneyk)
+[![](https://img.shields.io/badge/-@plusninap-%23000000?style=flat-square&logo=telegram)](https://t.me/plusninap)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
