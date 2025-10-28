@@ -11,7 +11,7 @@
 
 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚍𝚊𝚝𝚊-𝚍𝚛𝚒𝚟𝚎𝚗 𝚒𝚍𝚎𝚊𝚜.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-%23007ACC?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-%23007ACC?style=flat-square&logo=sql)
