@@ -1,6 +1,6 @@
 # Anastasia Plyusnina
 
-[![](https://img.shields.io/badge/-@boneyk-%23181717?style=flat-square&logo=github)](https://github.com/boneyk)
+[![](https://img.shields.io/badge/-@boneyk-%23181717?style=flat-square&logo=codeforces)](https://codeforces.com/profile/boneyk)
 [![](https://img.shields.io/badge/-@plusninap-%23000000?style=flat-square&logo=telegram)](https://t.me/plusninap)
 
 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜.
